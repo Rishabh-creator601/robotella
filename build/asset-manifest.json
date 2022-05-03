@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Robotella/static/css/main.c5fec86e.css",
+    "main.js": "/Robotella/static/js/main.de19288c.js",
+    "static/js/787.d3befce1.chunk.js": "/Robotella/static/js/787.d3befce1.chunk.js",
+    "static/media/starter.png": "/Robotella/static/media/starter.2b7384e7dce125fdc4c7.png",
+    "static/media/contact.jpg": "/Robotella/static/media/contact.0327414f9d5ab411fa6d.jpg",
+    "static/media/sample.jpg": "/Robotella/static/media/sample.49154252b6873fd2c849.jpg",
+    "index.html": "/Robotella/index.html",
+    "main.c5fec86e.css.map": "/Robotella/static/css/main.c5fec86e.css.map",
+    "main.de19288c.js.map": "/Robotella/static/js/main.de19288c.js.map",
+    "787.d3befce1.chunk.js.map": "/Robotella/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5fec86e.css",
+    "static/js/main.de19288c.js"
+  ]
+}
